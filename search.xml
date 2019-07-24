@@ -5,7 +5,7 @@
     <entry>
       <title>test</title>
       <link href="/2019/07/24/2019/test/"/>
-      <content type="html"><![CDATA[<p>$x^{y^2}=x^{y*y}$</p>]]></content>
+      <content type="html"><![CDATA[<p>$x^{y^z}=(1+e^x)^{-2xy^w}$</p>]]></content>
       
       
     </entry>
